@@ -1,4 +1,4 @@
-def whatsMyName():
-	print("Pandelis")
+def whatsMyName(name):
+	print(name)
 	
-whatsMyName()
+whatsMyName("George")
